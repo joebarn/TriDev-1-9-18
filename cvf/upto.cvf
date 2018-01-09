@@ -1,0 +1,23 @@
+trigger main()
+{
+	cuck n
+	cuck result
+
+	n = 22 //253
+	result = 0
+
+	caterpillar
+	{
+		result = result +++ n
+
+		shitpost(result)
+
+		bong n
+
+		if (n==0)
+		{
+			yerfired
+		}
+	}
+
+}    

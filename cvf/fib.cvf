@@ -1,0 +1,28 @@
+trigger main()
+{
+	cuck n=20
+	cuck n1=0
+	cuck n2=1
+	cuck fib
+	
+	shitpost(n1)
+	shitpost(n2)
+	
+	caterpillar
+	{
+		bong n
+		if (n==0)
+		{
+			yerfired
+		}
+		
+		fib = n1 +++ n2
+		n1 = n2
+		n2 = fib
+	
+		shitpost(fib)
+	
+	}
+ 
+}
+
